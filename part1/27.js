@@ -12,10 +12,10 @@ console.log(fruits);
 // console.log(fruits);
 // console.log("popped fruits is", poppedFruit);
 
-// unshift 
-// fruits.unshift("banana");
-// fruits.unshift("myfruit");
-// console.log(fruits);
+// unshift
+fruits.unshift("banana");
+fruits.unshift("myfruit");
+console.log(fruits);
 
 // shift 
 // let removedFruit = fruits.shift();

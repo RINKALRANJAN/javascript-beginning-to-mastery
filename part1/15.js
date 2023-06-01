@@ -13,6 +13,8 @@
 
 // ternary operator / conditional operator 
 
-// let age = 3;
+let age = 3;
 // let drink = age >= 5 ? "coffee" : "milk";
 // console.log(drink);
+let x = age > 5 ? "yes" : "no";
+console.log(x);

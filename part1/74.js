@@ -1,10 +1,9 @@
-
 const user1 = {
-    firstName : "harshit",
+    firstName: "harshit",
     age: 8,
-    about: function(){
+    about: function() {
         console.log(this.firstName, this.age);
-    }   
+    }
 }
 
 // don't do this mistake 
